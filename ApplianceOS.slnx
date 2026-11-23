@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ApplianceManifestLib/ApplianceManifestLib.csproj" />
+  <Project Path="appliance_cli/appliance_cli.csproj" />
+</Solution>
