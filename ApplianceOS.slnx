@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="ApplianceManifestLib/ApplianceManifestLib.csproj" />
   <Project Path="appliance_cli/appliance_cli.csproj" />
+  <Project Path="Appliance_Maker/Appliance_Maker.csproj" Id="1efcc1c3-9f99-4010-b935-9db7571b7b2d" />
 </Solution>
