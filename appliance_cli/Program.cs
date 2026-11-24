@@ -2,7 +2,7 @@
 using ApplianceManifestLib;
 using System.Diagnostics;
 
-namespace appliance_cli
+namespace appliancecli
 {
     internal class Program
     {

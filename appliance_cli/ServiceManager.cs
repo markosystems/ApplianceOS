@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Text;
 
-namespace appliance_cli
+namespace appliancecli
 {
     public abstract class ServiceManager
     {

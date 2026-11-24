@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 
-namespace appliance_cli
+namespace appliancecli
 {
     public abstract class PackageHandler
     {
